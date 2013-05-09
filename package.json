@@ -1,0 +1,16 @@
+{
+  "name": "ie-button-post-issue",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "app.js",
+  "dependencies": {
+    "express": "~3.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Aaron Powell <me@aaron-powell.com>",
+  "license": "BSD"
+}
